@@ -1,4 +1,4 @@
-## Baymax 
+## Chotu
 
 While applying to internships as a Master's student in Data Science, I found the following three things helped me the most while applying: (1) being early (2) researching the role and the company (3) picking the right things to highlight (4) knowing people who work there 
 
