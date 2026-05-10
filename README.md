@@ -10,6 +10,14 @@ So, inspired by [career-ops](https://github.com/santifer/career-ops), [job-ops](
 
 ## How is this different?  
 
+1. Not just a job search tool -- it's an assistant for all things professional ; school, interview prep, network, side projects & an honest conversation 
+
+2. Really gets to know you, and learns from context -- you control how much it knows, with data always stored on your own system 
+
+3. Easily customizable and built to scale -- pick and choose from a base list of options or make your own [resumes, job boards, learning resources, ...] 
+
+4. Always on -- it's running 24/7, 365, in all possible latitudes and longitudes ; first to respond to job alerts 
+
 ## What does it do?
 
 ## Features and tech stack 
@@ -19,8 +27,3 @@ So, inspired by [career-ops](https://github.com/santifer/career-ops), [job-ops](
 ## Project structure 
 
 ## Disclaimers 
-
-
-
-
-Setting up git
