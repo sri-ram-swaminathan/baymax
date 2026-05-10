@@ -23,3 +23,4 @@ So, inspired by [career-ops](https://github.com/santifer/career-ops), [job-ops](
 
 
 
+Setting up git
